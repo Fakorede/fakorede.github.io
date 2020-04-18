@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fakorede Abiola</title>
+    <link>https://fakorede.github.io/</link>
+    <description>Recent content on Fakorede Abiola</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="https://fakorede.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>👦🏾About Me</title>
+      <link>https://fakorede.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fakorede.github.io/about/</guid>
+      <description>Hi, 👋🏾 I&amp;rsquo;m Fab, a 22 y/o Software Developer based in Nigeria.
+I always try to be open to learning new languages and frameworks depending on the need of the project. I thrive to learning about software development best practices and apply them to my work.
+I’m passionate about the process of software development, such as the documentation, testing, code reviews, communicating with peers within teams, thinking about solutions to problems, etc.</description>
+    </item>
+    
+    <item>
+      <title>👨🏾‍💻Work</title>
+      <link>https://fakorede.github.io/work/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fakorede.github.io/work/</guid>
+      <description>My open sourced projects are on GitHub and my professional experience on LinkedIn. I also use Stack Overflow when I face challenges and provide answers to questions I can solve.
+💻 Professional  Nov, 2017 - Now: Web Developer at Acetech Solutions; Feb, 2018 - Apr, 2018: Web Developer Intern at Tested Technologies; Jul, 2017 - Dec, 2017: Web Developer Intern at Mayconcept Solutions.  👐🏾 Volunteer Work  May 2018 - May 2019: Python Facilitator for the Developers Community of my department as a finalist.</description>
+    </item>
+    
+  </channel>
+</rss>
