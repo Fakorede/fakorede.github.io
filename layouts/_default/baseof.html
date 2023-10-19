@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+
+<html lang="{{ with .Site.LanguageCode }}{{.}}{{ else }}en-us{{end}}">
+{{- partial "core/head.html" . -}}
+
+<body class="">
+    <header class="site-header">
+        <nav class="nav">
+            <div class="container flex-wrap">
+                <h1 class="logo">
+                    <a href="https://fakorede.github.io">Moshood A. Fakorede</a>
+                </h1>
+                <ul class="navbar">
+                    <li><a href="index.html">About</a></li>
+                    <li><a href="">Publications</a></li>
+                    <!-- <li><a href="cv.pdf">CV</a></li> -->
+                </ul>
+            </div>
+        </nav>
+    </header>
+
+    <div class="container d-flex flex-column min-vh-100">
+        {{- block "main" . }}{{- end }}
+
+        {{- partial "core/footer.html" . -}}
+        {{- partial "core/script.html" . -}}
+    </div>
+</body>
+
+</html>
