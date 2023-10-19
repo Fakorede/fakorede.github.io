@@ -1,7 +1,7 @@
 baseURL = "https://fakorede.github.io"
 
 # set your your own ga token here.
-googleAnalytics = "UA/G-123123-12"
+# googleAnalytics = "UA/G-123123-12"
 
 languageCode = "en-us"
 
