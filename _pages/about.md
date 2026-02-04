@@ -34,6 +34,12 @@ Ultimately, I aim to build automated tools that make mobile software ecosystems 
 - **Ph.D. in Computer Science** (Expected December 2028)  
   Louisiana State University, Baton Rouge, LA -->
 
-<!-- ## Background
+## Funding & Support
 
-I have experience with distributed systems including Apache Spark and Hadoop, and have contributed to open-source projects including Thunderbird Android. My work combines theoretical foundations with practical software development, with particular expertise in Android development and static analysis tools. -->
+**Graduate Research Assistantship**  
+Louisiana State University, Department of Computer Science  
+Jan 2024 – Present
+
+My research is supported in part by:
+- National Science Foundation (NSF) Grant No. 2449694: *Toward Personalized and Trustworthy Mobile App Recommendations via Grounding App Behaviors*
+- Louisiana Board of Regents: *A Unified Framework for Static Analysis of Multi-Language Mobile Apps*
