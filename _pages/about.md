@@ -27,8 +27,8 @@ Ultimately, I aim to build automated tools that make mobile software ecosystems 
 
 ## Recent News
 
-- **January 2026**: Our paper titled "Detecting Compliance Violations in Android Auto Applications" was accepted at AST 2026! 🎉
 - **February 2026**: I served as an artifact badging reviewer for The Web Conference 2026.
+- **January 2026**: Our paper titled "Detecting Compliance Violations in Android Auto Applications" was accepted at AST 2026! 🎉
 
 <!-- ## Education
 
