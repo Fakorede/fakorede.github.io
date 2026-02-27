@@ -27,8 +27,11 @@ Ultimately, I aim to build automated tools that make mobile software ecosystems 
 
 ## Recent News
 
-- **February 2026**: Selected for the Artifact Evaluation Committee of **ACM MobiSys 2026**.
-- **February 2026**: Honored to serve as an artifact badging reviewer for **The Web Conference 2026**.
+- **February 2026**:
+  - Selected for the Artifact Evaluation Committee of **ACM MobiSys 2026**.
+  - Selected as an Artifact Evaluation Reviewer for **The Web Conference 2026**.
+  - Selected for the Artifact Evaluation Committee of **PoPETs 2026 (Privacy Enhancing Technologies Symposium)**.
+
 - **January 2026**: Our paper titled "Detecting Compliance Violations in Android Auto Applications" was accepted at **AST 2026**! 🎉
 
 <!-- ## Education
